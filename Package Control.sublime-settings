@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS Snippets",
+		"AutoFileName",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Elixir",
+		"ElixirSublime",
+		"ES6-Toolkit",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Console",
+		"JsFormat",
+		"Package Control",
+		"Polymer & Web Component Snippets",
+		"ReactJS Snippets",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Theme - Soda",
+		"WD AngularJS Snippets"
+	]
+}

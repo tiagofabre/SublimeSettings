@@ -1,0 +1,19 @@
+{
+	"cmd":
+	[
+		"C:/Program Files/nodejs/node.exe",
+		"$file"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Ocean-Dark-Soda (SL).tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"PHP Codebeautifier",
+		"Phpcs",
+		"PhpDoc",
+		"Vintage"
+	],
+	"selector": "source.js",
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme"
+}
